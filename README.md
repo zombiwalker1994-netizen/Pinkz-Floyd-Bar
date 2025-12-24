@@ -1,1 +1,1 @@
-# Pinkz-Floyd-Bar
+# Pinky-Floyd-Bar
